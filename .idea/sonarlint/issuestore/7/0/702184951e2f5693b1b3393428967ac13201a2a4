@@ -1,0 +1,4 @@
+
+qkotlin:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(üèª¦8ÁÂ„”·1
+\kotlin:S6511"=Merge chained "if" statements into a single "when" statement.(ÍÜÛƒ8ÂÂ„”·1
+Jkotlin:S6519"+Replace "equals" with binary operator "==".(ÍÜÛƒ8ÂÂ„”·1
