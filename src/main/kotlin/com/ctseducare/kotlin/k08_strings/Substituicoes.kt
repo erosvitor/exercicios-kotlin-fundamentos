@@ -13,7 +13,7 @@
       - Converter todo o texto para maiúsculo
 */
 
-package com.ctseducare.kotlin.k09_strings
+package com.ctseducare.kotlin.k08_strings
 
 import java.util.Locale
 

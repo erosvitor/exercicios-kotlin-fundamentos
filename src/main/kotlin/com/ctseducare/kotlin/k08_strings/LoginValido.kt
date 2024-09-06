@@ -4,7 +4,7 @@
   contrário, exibir a mensagem 'Login inválido'.
 */
 
-package com.ctseducare.kotlin.k09_strings
+package com.ctseducare.kotlin.k08_strings
 
 import java.util.Scanner
 

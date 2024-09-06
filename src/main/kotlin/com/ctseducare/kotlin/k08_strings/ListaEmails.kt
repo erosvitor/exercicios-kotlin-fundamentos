@@ -9,7 +9,7 @@
     Alvarenga Pedroso;pedroso@hotmail.com
 */
 
-package com.ctseducare.kotlin.k09_strings
+package com.ctseducare.kotlin.k08_strings
 
 fun main() {
 

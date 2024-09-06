@@ -24,7 +24,7 @@
       - Para cargos de analistas (código 3) reajustar em 6%
 */
 
-package com.ctseducare.kotlin.k08_matrices
+package com.ctseducare.kotlin.k07_matrices
 
 fun main() {
 

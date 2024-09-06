@@ -18,7 +18,7 @@
     c) Maior salário
 */
 
-package com.ctseducare.kotlin.k08_matrices
+package com.ctseducare.kotlin.k07_matrices
 
 fun main() {
 

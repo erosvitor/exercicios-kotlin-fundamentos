@@ -3,7 +3,7 @@
   números, mostrar na tela o conteúdo da matriz.
 */
 
-package com.ctseducare.kotlin.k08_matrices
+package com.ctseducare.kotlin.k07_matrices
 
 import java.util.Scanner
 

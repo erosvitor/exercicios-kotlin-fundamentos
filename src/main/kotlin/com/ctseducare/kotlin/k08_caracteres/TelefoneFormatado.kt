@@ -5,7 +5,7 @@
   (XX) XXXXX-XXXX.
 */
 
-package com.ctseducare.kotlin.k10_characters
+package com.ctseducare.kotlin.k08_caracteres
 
 import java.util.Scanner
 

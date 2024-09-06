@@ -3,7 +3,7 @@
   o nome da pessoa mais velha.
 */
 
-package com.ctseducare.kotlin.k08_matrices
+package com.ctseducare.kotlin.k07_matrices
 
 import java.util.Scanner
 

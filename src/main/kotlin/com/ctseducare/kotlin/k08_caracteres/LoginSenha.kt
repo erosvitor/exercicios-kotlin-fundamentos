@@ -7,7 +7,7 @@
     - Senha deve ter pelo menos um digite numérico e uma letra maiúscula
  */
 
-package com.ctseducare.kotlin.k10_characters
+package com.ctseducare.kotlin.k08_caracteres
 
 import java.util.Scanner
 

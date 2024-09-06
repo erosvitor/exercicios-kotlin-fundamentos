@@ -3,7 +3,7 @@
   aquele que contem apenas letras e espaços em branco.
 */
 
-package com.ctseducare.kotlin.k10_characters
+package com.ctseducare.kotlin.k08_caracteres
 
 import java.util.Scanner
 

@@ -1,9 +1,9 @@
 /*
   Considerando um capital de R$ 1.000,00, uma taxa de juros mensal de 10% e um período de 1 mês,
   escreva um programa que armazene os dados acima em variáveis e depois produza a seguinte saída
-  formatada.
+  formatada:
 
-    O juros calculado sobre o capital de R$ 1000,00, durante 1 mês, com uma taxa de 10%, foi de R$ 100,00
+  O juros calculado sobre o capital de R$ 1000,00, durante 1 mês, com uma taxa de 10%, foi de R$ 100,00
 */
 
 package com.ctseducare.kotlin.k03_output_data
